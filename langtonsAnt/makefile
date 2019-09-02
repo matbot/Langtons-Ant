@@ -1,7 +1,7 @@
 #######################################################
 # Student: Mathew McDade
 # # File: Makefile
-# # Description: CS 162 Assignment 1 makefile
+# # Description: Langton's Ant
 # # Date: Sun Oct  9 12:05:48 PDT 2016
 # #####################################################
 
